@@ -33,7 +33,8 @@ class FizzBuzz {
         } else {
 
             System.out.println(i);
-            i++;
+        }
+        {i++;
         }
         return i;
     }
